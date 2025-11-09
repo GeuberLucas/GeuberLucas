@@ -93,5 +93,5 @@ Se quiser trocar ideias sobre **tecnologia, arquitetura, carreira ou propósito 
 
 <p align="center">
   <i>“O código é apenas uma ferramenta; o propósito é o que o torna significativo.”</i><br/>
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Geuber%20Lucas-blueviolet" />
+  
 </p>
