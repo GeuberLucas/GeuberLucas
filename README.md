@@ -30,43 +30,6 @@ Tenho experiência em soluções white-label de saúde, pipelines de dados e mac
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🧮 [Machine Learning End-to-End](https://github.com/GeuberLucas/Machine_Learning_end_to_end)
-> Projeto completo de aprendizado de máquina — da preparação dos dados ao deploy do modelo.  
-**Stack:** Python, Scikit-learn, Pandas, NumPy, Matplotlib  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFD43B?logo=tensorflow&logoColor=black)
-
----
-
-### 📖 [Dicta Sanctoriun](https://github.com/GeuberLucas/Dicta_Sanctoriun)
-> Aplicação voltada à fé católica, com frases dos santos e recursos espirituais.  
-**Stack:** ASP.NET Core MVC, Entity Framework, SQL Server  
-![.NET](https://img.shields.io/badge/.NET%20Core-512BD4?logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-
----
-
-### 📈 [Observability and Monitoring Application](https://github.com/GeuberLucas/Observability_and_monitoring_application)
-> Sistema completo de observabilidade, com coleta e visualização de métricas e logs em tempo real.  
-**Stack:** .NET Core, Prometheus, Grafana, Docker, Angular  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-
----
-
-### 🧩 [Full API Template](https://github.com/GeuberLucas/Full-Api-Template)
-> Template base para criação rápida de APIs em .NET com arquitetura limpa e Swagger configurado.  
-**Stack:** ASP.NET Core, Swagger, Entity Framework, Clean Architecture  
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
-
----
-
-### 💰 [Gofre](https://github.com/GeuberLucas/Gofre)
-> Plataforma de gestão financeira desenvolvida em **Go**, inspirada por sistemas de alta performance.  
-**Stack:** Go, PostgreSQL, Docker, Microservices  
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-
----
-
 ## 🧠 Certificações
 
 🎓 **Monitoramento de Aplicações com Prometheus e Grafana**  
